@@ -1,0 +1,27 @@
+# Logs
+*.log
+
+# Data directories
+data/
+
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Next.js
+.next/
+out/
+
+# Misc
+.DS_Store
+*.swp
